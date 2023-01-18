@@ -8,7 +8,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 
 permalink: /:title
 
-url: "https://jaehyun-j.io" # the base hostname & protocol for your site
+url: "https://jaehyun-j.github.io/" # the base hostname & protocol for your site
   
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
